@@ -111,8 +111,20 @@ doctor_management.exe
 
 ## **Screenshots (Optional Section)**
 
-> You can add screenshots later.
-> Example placeholders:
+add doc
+<img width="354" height="235" alt="Screenshot 2025-11-27 at 9 47 33 AM" src="https://github.com/user-attachments/assets/97dd8edb-c7c7-479c-8cba-cbf0ed72d864" />
+
+view all doc
+<img width="533" height="240" alt="Screenshot 2025-11-27 at 9 52 51 AM" src="https://github.com/user-attachments/assets/e417f0dd-bb23-476b-865f-180956ab725f" />
+
+search doc
+<img width="262" height="131" alt="Screenshot 2025-11-27 at 9 53 19 AM" src="https://github.com/user-attachments/assets/82dbde03-2489-41c9-9171-5a9aca81805d" />
+
+update doc
+<img width="504" height="191" alt="Screenshot 2025-11-27 at 9 54 32 AM" src="https://github.com/user-attachments/assets/fd9c391b-b09c-4569-a0c5-645d286460b9" />
+
+delete doc
+<img width="301" height="41" alt="Screenshot 2025-11-27 at 9 54 54 AM" src="https://github.com/user-attachments/assets/46e24bed-ab24-4227-ab0b-41f36336621b" />
 
 ### ** 1. Main Menu Screen**
 
